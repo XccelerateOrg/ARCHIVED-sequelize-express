@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "gordon",
+    "password": "gordon",
+    "database": "fruits",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "gordon",
+    "password": "gordon",
+    "database": "fruits",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "gordon",
+    "password": "gordon",
+    "database": "fruits",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
